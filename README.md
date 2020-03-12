@@ -1,0 +1,2 @@
+# lol-scoreboard
+lol scoreboard
